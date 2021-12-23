@@ -86,6 +86,10 @@ position: absolute;
 top:50%;
 transform: translateY(-50%);
 }
+@media (max-width:480px){
+ header h1{
+  font-size: 51px;
+ }
 .dropdown-menu{
     color: black !important;
 }
